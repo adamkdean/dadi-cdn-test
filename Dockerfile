@@ -1,7 +1,7 @@
 FROM node:6.11
 MAINTAINER Adam K Dean <akd@dadi.co>
 
-RUN mkdir /dadi/cdn
+RUN mkdir -p /dadi/cdn
 ADD . /dadi/cdn
 WORKDIR /dadi/cdn
 
