@@ -1,0 +1,4 @@
+node_modules
+log
+.node-persist
+.DS_Store
