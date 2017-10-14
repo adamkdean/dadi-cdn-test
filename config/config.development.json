@@ -41,7 +41,7 @@
   "caching": {
     "ttl": 60,
     "directory": {
-      "enabled": true,
+      "enabled": false,
       "path": "./cache/",
       "autoFlush": true,
       "autoFlushInterval": 120
