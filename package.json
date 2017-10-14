@@ -2,6 +2,6 @@
   "name": "dadi-cdn",
   "main": "server.js",
   "dependencies": {
-    "@dadi/cdn": "dadi/cdn#feature/better-cropping"
+    "@dadi/cdn": "dadi/cdn#feature/intuitive-cropping"
   }
 }
